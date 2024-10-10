@@ -11,8 +11,7 @@
         "-XX:MaxGCPauseMillis=100",
         "-XX:+OptimizeStringConcat",
         "-XX:+UseCompressedOops",
-        "-XX:+HeapDumpOnOutOfMemoryError",
-        "-XX:+PrintGCDetails"
+        "-XX:+HeapDumpOnOutOfMemoryError"
       ]
     },
     "8GB": {
@@ -26,8 +25,7 @@
         "-XX:MaxGCPauseMillis=60",
         "-XX:+OptimizeStringConcat",
         "-XX:+UseCompressedOops",
-        "-XX:+HeapDumpOnOutOfMemoryError",
-        "-XX:+PrintGCDetails"
+        "-XX:+HeapDumpOnOutOfMemoryError"
       ]
     },
     "16GB": {
@@ -41,8 +39,7 @@
         "-XX:MaxGCPauseMillis=50",
         "-XX:+OptimizeStringConcat",
         "-XX:+UseCompressedOops",
-        "-XX:+HeapDumpOnOutOfMemoryError",
-        "-XX:+PrintGCDetails"
+        "-XX:+HeapDumpOnOutOfMemoryError"
       ]
     },
     "32GB": {
@@ -56,8 +53,7 @@
         "-XX:MaxGCPauseMillis=40",
         "-XX:+OptimizeStringConcat",
         "-XX:+UseCompressedOops",
-        "-XX:+HeapDumpOnOutOfMemoryError",
-        "-XX:+PrintGCDetails"
+        "-XX:+HeapDumpOnOutOfMemoryError"
       ]
     }
   }
