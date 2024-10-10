@@ -1,95 +1,60 @@
 {
-    "ramConfigurations": {
-      "4GB": {
-        "Xmx": "2G",
-        "Xms": "2G",
-        "JVMArgs": [
-          "-XX:+UnlockExperimentalVMOptions", 
-          "-XX:+UseG1GC",
-          "-XX:G1NewSizePercent=30",
-          "-XX:G1ReservePercent=20",
-          "-XX:MaxGCPauseMillis=100",
-          "-XX:InitiatingHeapOccupancyPercent=15",
-          "-XX:G1HeapRegionSize=8M",
-          "-XX:ParallelGCThreads=2",
-          "-XX:ConcGCThreads=1",
-          "-XX:+OptimizeStringConcat",
-          "-XX:+UseFastAccessorMethods",
-          "-XX:+UseCompressedOops",
-          "-XX:+HeapDumpOnOutOfMemoryError",
-          "-XX:+PrintGCDetails",
-          "-XX:+PrintGCTimeStamps",
-          "-XX:+PrintTenuringDistribution"
-        ]
-      },
-      "8GB": {
-        "Xmx": "4G",
-        "Xms": "4G",
-        "JVMArgs": [
-          "-XX:+UnlockExperimentalVMOptions", 
-          "-XX:+UseG1GC",
-          "-XX:G1NewSizePercent=20",
-          "-XX:G1ReservePercent=20",
-          "-XX:MaxGCPauseMillis=60",
-          "-XX:InitiatingHeapOccupancyPercent=20",
-          "-XX:G1HeapRegionSize=8M",
-          "-XX:ParallelGCThreads=4",
-          "-XX:ConcGCThreads=2",
-          "-XX:+OptimizeStringConcat",
-          "-XX:+UseFastAccessorMethods",
-          "-XX:+UseCompressedOops",
-          "-XX:+HeapDumpOnOutOfMemoryError",
-          "-XX:+PrintGCDetails",
-          "-XX:+PrintGCTimeStamps",
-          "-XX:+PrintTenuringDistribution"
-        ]
-      },
-      "16GB": {
-        "Xmx": "6G",
-        "Xms": "6G",
-        "JVMArgs": [
-          "-XX:+UnlockExperimentalVMOptions", 
-          "-XX:+UseG1GC",
-          "-XX:G1NewSizePercent=15",
-          "-XX:G1ReservePercent=20",
-          "-XX:MaxGCPauseMillis=50",
-          "-XX:InitiatingHeapOccupancyPercent=20",
-          "-XX:G1HeapRegionSize=16M",
-          "-XX:ParallelGCThreads=4",
-          "-XX:ConcGCThreads=2",
-          "-XX:+OptimizeStringConcat",
-          "-XX:+UseFastAccessorMethods",
-          "-XX:+UseCompressedOops",
-          "-XX:+UseLargePages",
-          "-XX:+HeapDumpOnOutOfMemoryError",
-          "-XX:+PrintGCDetails",
-          "-XX:+PrintGCTimeStamps",
-          "-XX:+PrintTenuringDistribution"
-        ]
-      },
-      "32GB": {
-        "Xmx": "12G",
-        "Xms": "12G",
-        "JVMArgs": [
-          "-XX:+UnlockExperimentalVMOptions", 
-          "-XX:+UseG1GC",
-          "-XX:G1NewSizePercent=10",
-          "-XX:G1ReservePercent=20",
-          "-XX:MaxGCPauseMillis=40",
-          "-XX:InitiatingHeapOccupancyPercent=25",
-          "-XX:G1HeapRegionSize=32M",
-          "-XX:ParallelGCThreads=8",
-          "-XX:ConcGCThreads=4",
-          "-XX:+OptimizeStringConcat",
-          "-XX:+UseFastAccessorMethods",
-          "-XX:+UseCompressedOops",
-          "-XX:+UseLargePages",
-          "-XX:+HeapDumpOnOutOfMemoryError",
-          "-XX:+PrintGCDetails",
-          "-XX:+PrintGCTimeStamps",
-          "-XX:+PrintTenuringDistribution"
-        ]
-      }
+  "ramConfigurations": {
+    "4GB": {
+      "Xmx": "2G",
+      "Xms": "2G",
+      "JVMArgs": [
+        "-XX:+UseG1GC",
+        "-XX:G1NewSizePercent=30",
+        "-XX:G1ReservePercent=20",
+        "-XX:MaxGCPauseMillis=100",
+        "-XX:+OptimizeStringConcat",
+        "-XX:+UseCompressedOops",
+        "-XX:+HeapDumpOnOutOfMemoryError",
+        "-XX:+PrintGCDetails"
+      ]
+    },
+    "8GB": {
+      "Xmx": "4G",
+      "Xms": "4G",
+      "JVMArgs": [
+        "-XX:+UseG1GC",
+        "-XX:G1NewSizePercent=20",
+        "-XX:G1ReservePercent=20",
+        "-XX:MaxGCPauseMillis=60",
+        "-XX:+OptimizeStringConcat",
+        "-XX:+UseCompressedOops",
+        "-XX:+HeapDumpOnOutOfMemoryError",
+        "-XX:+PrintGCDetails"
+      ]
+    },
+    "16GB": {
+      "Xmx": "6G",
+      "Xms": "6G",
+      "JVMArgs": [
+        "-XX:+UseG1GC",
+        "-XX:G1NewSizePercent=15",
+        "-XX:G1ReservePercent=20",
+        "-XX:MaxGCPauseMillis=50",
+        "-XX:+OptimizeStringConcat",
+        "-XX:+UseCompressedOops",
+        "-XX:+HeapDumpOnOutOfMemoryError",
+        "-XX:+PrintGCDetails"
+      ]
+    },
+    "32GB": {
+      "Xmx": "12G",
+      "Xms": "12G",
+      "JVMArgs": [
+        "-XX:+UseG1GC",
+        "-XX:G1NewSizePercent=10",
+        "-XX:G1ReservePercent=20",
+        "-XX:MaxGCPauseMillis=40",
+        "-XX:+OptimizeStringConcat",
+        "-XX:+UseCompressedOops",
+        "-XX:+HeapDumpOnOutOfMemoryError",
+        "-XX:+PrintGCDetails"
+      ]
     }
   }
-  
+}
