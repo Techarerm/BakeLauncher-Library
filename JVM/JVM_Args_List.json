@@ -1,0 +1,51 @@
+{
+    "jvmArguments": {
+      "memoryAllocation": {
+        "description": "Settings related to memory allocation for Minecraft.",
+        "Xmx": "-Xmx[amount]  (Sets the maximum RAM)",
+        "Xms": "-Xms[amount]  (Sets the initial RAM)",
+        "UseG1GC": "-XX:+UseG1GC  (Garbage-First Garbage Collector)",
+        "G1NewSizePercent": "-XX:G1NewSizePercent=[value]  (Sets size of the young generation)",
+        "G1ReservePercent": "-XX:G1ReservePercent=[value]  (Sets reserve memory to prevent fragmentation)",
+        "MaxGCPauseMillis": "-XX:MaxGCPauseMillis=[value]  (Targets maximum garbage collection pause time)"
+      },
+      "garbageCollectionTuning": {
+        "description": "JVM arguments for tuning garbage collection processes.",
+        "UseConcMarkSweepGC": "-XX:+UseConcMarkSweepGC  (Uses the Concurrent Mark Sweep garbage collector)",
+        "CMSIncrementalMode": "-XX:+CMSIncrementalMode  (Enables incremental garbage collection)",
+        "UseParNewGC": "-XX:+UseParNewGC  (Uses the parallel new garbage collector)",
+        "DisableExplicitGC": "-XX:+DisableExplicitGC  (Prevents calling System.gc() explicitly)"
+      },
+      "performanceEnhancements": {
+        "description": "JVM arguments to improve Minecraft’s overall performance.",
+        "AggressiveOpts": "-XX:+AggressiveOpts  (Enables aggressive optimization strategies)",
+        "OptimizeStringConcat": "-XX:+OptimizeStringConcat  (Optimizes string concatenation)",
+        "UseFastAccessorMethods": "-XX:+UseFastAccessorMethods  (Speeds up method accessors)",
+        "UseCompressedOops": "-XX:+UseCompressedOops  (Enables compressed object pointers for 64-bit JVMs)",
+        "UseLargePages": "-XX:+UseLargePages  (Uses large memory pages for better performance)"
+      },
+      "threadAndCPUTuning": {
+        "description": "Settings related to thread management and CPU optimizations.",
+        "ParallelGCThreads": "-XX:ParallelGCThreads=[threads]  (Sets number of threads for parallel GC)",
+        "ConcGCThreads": "-XX:ConcGCThreads=[threads]  (Sets number of concurrent GC threads)",
+        "UseThreadPriorities": "-XX:+UseThreadPriorities  (Allows setting thread priorities in Java)"
+      },
+      "debuggingAndMonitoring": {
+        "description": "Useful JVM arguments for debugging, monitoring, and generating logs.",
+        "PrintGCDetails": "-XX:+PrintGCDetails  (Outputs detailed GC logs)",
+        "PrintGCTimeStamps": "-XX:+PrintGCTimeStamps  (Adds timestamps to GC logs)",
+        "PrintHeapAtGC": "-XX:+PrintHeapAtGC  (Prints heap information during GC)",
+        "Xloggc": "-Xloggc:[file]  (Logs GC activity to the specified file)",
+        "PrintTenuringDistribution": "-XX:+PrintTenuringDistribution  (Prints object tenuring information)",
+        "HeapDumpOnOutOfMemoryError": "-XX:+HeapDumpOnOutOfMemoryError  (Dumps heap when OutOfMemoryError occurs)",
+        "HeapDumpPath": "-XX:HeapDumpPath=[path]  (Specifies file path for heap dump)"
+      },
+      "miscellaneous": {
+        "description": "Other useful JVM arguments for specific Minecraft-related configurations.",
+        "ignoreInvalidMinecraftCertificates": "-Dfml.ignoreInvalidMinecraftCertificates=true  (Ignores invalid mod certificates)",
+        "ignorePatchDiscrepancies": "-Dfml.ignorePatchDiscrepancies=true  (Ignores mod patch discrepancies)"
+      }
+    }
+  }
+  
+  
