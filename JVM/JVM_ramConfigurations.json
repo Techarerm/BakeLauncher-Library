@@ -4,6 +4,7 @@
         "Xmx": "2G",
         "Xms": "2G",
         "JVMArgs": [
+          "-XX:+UnlockExperimentalVMOptions", 
           "-XX:+UseG1GC",
           "-XX:G1NewSizePercent=30",
           "-XX:G1ReservePercent=20",
@@ -25,6 +26,7 @@
         "Xmx": "4G",
         "Xms": "4G",
         "JVMArgs": [
+          "-XX:+UnlockExperimentalVMOptions", 
           "-XX:+UseG1GC",
           "-XX:G1NewSizePercent=20",
           "-XX:G1ReservePercent=20",
@@ -46,6 +48,7 @@
         "Xmx": "6G",
         "Xms": "6G",
         "JVMArgs": [
+          "-XX:+UnlockExperimentalVMOptions", 
           "-XX:+UseG1GC",
           "-XX:G1NewSizePercent=15",
           "-XX:G1ReservePercent=20",
@@ -68,6 +71,7 @@
         "Xmx": "12G",
         "Xms": "12G",
         "JVMArgs": [
+          "-XX:+UnlockExperimentalVMOptions", 
           "-XX:+UseG1GC",
           "-XX:G1NewSizePercent=10",
           "-XX:G1ReservePercent=20",
