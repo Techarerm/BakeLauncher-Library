@@ -1,0 +1,99 @@
+{
+    "latest": {
+      "release": "in-20100223",
+      "snapshot": "in-20100223"
+    },
+    "versions": [
+      {
+        "id": "in-20091223-2",
+        "type": "indev",
+        "release_time": "2018-12-25T04:01:00Z",
+        "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Indev/in-20091223-2/in-20091223-2.json"
+      },
+      {
+        "id": "in-20091231-2",
+        "type": "indev",
+        "release_time": "2021-06-26T22:22:00Z",
+        "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Indev/in-20091231-2/in-20091231-2.json"
+      },
+      {
+        "id": "in-20100105",
+        "type": "indev",
+        "release_time": "2018-12-25T04:01:00Z",
+        "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Indev/in-20100105/in-20100105.json"
+      },
+      {
+        "id": "in-20100111-1",
+        "type": "indev",
+        "release_time": "2018-12-25T04:01:00Z",
+        "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Indev/in-20100111-1/in-20100111-1.json"
+      },
+      {
+        "id": "in-20100125-1",
+        "type": "indev",
+        "release_time": "2018-12-25T04:01:00Z",
+        "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Indev/in-20100125-1/in-20100125-1.json"
+      },
+      {
+        "id": "in-20100125-2",
+        "type": "indev",
+        "release_time": "2018-12-25T04:01:00Z",
+        "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Indev/in-20100125-2/in-20100125-2.json"
+      },
+      {
+        "id": "in-20100128-2304",
+        "type": "indev",
+        "release_time": "2020-10-13T21:20:00Z",
+        "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Indev/in-20100128-2304/in-20100128-2304.json"
+      },
+      {
+        "id": "in-20100129",
+        "type": "indev",
+        "release_time": "2018-12-25T04:01:00Z",
+        "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Indev/in-20100129/in-20100129.json"
+      },
+      {
+        "id": "in-20100130",
+        "type": "indev",
+        "release_time": "2018-12-25T04:01:00Z",
+        "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Indev/in-20100130/in-20100130.json"
+      },
+      {
+        "id": "in-20100201-1",
+        "type": "indev",
+        "release_time": "2018-12-25T04:01:00Z",
+        "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Indev/in-20100201-1/in-20100201-1.json"
+      },
+      {
+        "id": "in-20100201-2",
+        "type": "indev",
+        "release_time": "2018-12-25T04:01:00Z",
+        "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Indev/in-20100201-2/in-20100201-2.json"
+      },
+      {
+        "id": "in-20100201-3",
+        "type": "indev",
+        "release_time": "2018-12-25T04:01:00Z",
+        "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Indev/in-20100201-3/in-20100201-3.json"
+      },
+      {
+        "id": "in-20100203",
+        "type": "indev",
+        "release_time": "2018-12-25T04:01:00Z",
+        "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Indev/in-20100203/in-20100203.json"
+      },
+      {
+        "id": "in-20100206-2103",
+        "type": "indev",
+        "release_time": "2020-10-14T18:03:00Z",
+        "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Indev/in-20100206-2103/in-20100206-2103.json"
+      },
+      {
+        "id": "in-20100223",
+        "type": "indev",
+        "release_time": "2018-12-25T04:01:00Z",
+        "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Indev/in-20100223/in-20100223.json"
+      }
+    ]
+  }
+  

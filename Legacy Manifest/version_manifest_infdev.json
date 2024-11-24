@@ -1,0 +1,105 @@
+{
+    "latest": {
+      "release": "inf-20100630-2",
+      "snapshot": "inf-20100630-2"
+    },
+    "versions": [
+      {
+        "id": "inf-20100227",
+        "type": "infdev",
+        "release_time": "2018-06-27T00:23:00Z",
+        "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100227/inf-20100227.json"
+      },
+      {
+        "id": "inf-20100313",
+        "type": "infdev",
+        "release_time": "2018-06-27T00:23:00Z",
+        "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100313/inf-20100313.json"
+      },
+      {
+        "id": "inf-20100316",
+        "type": "infdev",
+        "release_time": "2018-06-27T00:23:00Z",
+        "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100316/inf-20100316.json"
+      },
+      {
+        "id": "inf-20100320",
+        "type": "infdev",
+        "release_time": "2018-06-27T00:23:00Z",
+        "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100320/inf-20100320.json"
+      },
+      {
+        "id": "inf-20100321",
+        "type": "infdev",
+        "release_time": "2018-06-27T00:23:00Z",
+        "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100321/inf-20100321.json"
+      },
+      {
+        "id": "inf-20100325",
+        "type": "infdev",
+        "release_time": "2018-06-27T00:23:00Z",
+        "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100325/inf-20100325.json"
+      },
+      {
+        "id": "inf-20100327",
+        "type": "infdev",
+        "release_time": "2018-06-27T00:23:00Z",
+        "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100327/inf-20100327.json"
+      },
+      {
+        "id": "inf-20100330",
+        "type": "infdev",
+        "release_time": "2018-06-27T00:23:00Z",
+        "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100330/inf-20100330.json"
+      },
+      {
+        "id": "inf-20100413",
+        "type": "infdev",
+        "release_time": "2018-06-27T00:23:00Z",
+        "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100413/inf-20100413.json"
+      },
+      {
+        "id": "inf-20100414",
+        "type": "infdev",
+        "release_time": "2018-06-27T00:23:00Z",
+        "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100414/inf-20100414.json"
+      },
+      {
+        "id": "inf-20100415",
+        "type": "infdev",
+        "release_time": "2018-06-27T00:23:00Z",
+        "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100415/inf-20100415.json"
+      },
+      {
+        "id": "inf-20100420",
+        "type": "infdev",
+        "release_time": "2018-06-27T00:23:00Z",
+        "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100420/inf-20100420.json"
+      },
+      {
+        "id": "inf-20100607",
+        "type": "infdev",
+        "release_time": "2018-06-27T00:23:00Z",
+        "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100607/inf-20100607.json"
+      },
+      {
+        "id": "inf-20100608",
+        "type": "infdev",
+        "release_time": "2018-06-27T00:23:00Z",
+        "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100608/inf-20100608.json"
+      },
+      {
+        "id": "inf-20100616",
+        "type": "infdev",
+        "release_time": "2021-06-26T22:22:00Z",
+        "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100616/inf-20100616.json"
+      },
+      {
+        "id": "inf-20100630-2",
+        "type": "infdev",
+        "release_time": "2018-06-27T00:23:00Z",
+        "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100630-2/inf-20100630-2.json"
+      }
+    ]
+  }
+  
