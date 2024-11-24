@@ -1,0 +1,604 @@
+{
+  "latest": {
+    "release": "a1.2.6",
+    "snapshot": "a1.2.6"
+  },
+  "versions": [
+    {
+      "id": "rd-161348",
+      "type": "old_alpha",
+      "url": "https://ia803108.us.archive.org/10/items/Minecraft-JE-Pre-Classic/rd-161348-launcher/rd-161348-launcher.json",
+      "time": "2018-06-10T13:25:00",
+      "sha1": "fe2b0a856f7787179ac62ab7168aa454081c9761",
+      "complianceLevel": 0
+    },    
+    {
+      "id": "rd-160052",
+      "type": "old_alpha",
+      "url": "https://piston-meta.mojang.com/v1/packages/0cac2ceab812568826c6e5aeb4cf980397550479/rd-160052.json",
+      "time": "2022-03-10T09:51:38+00:00",
+      "releaseTime": "2009-05-15T22:52:00+00:00",
+      "sha1": "0cac2ceab812568826c6e5aeb4cf980397550479",
+      "complianceLevel": 0
+    },
+    {
+      "id": "rd-20090515",
+      "type": "old_alpha",
+      "url": "https://piston-meta.mojang.com/v1/packages/a3165080e2b0bf20519eac5f55ee841f3491e277/rd-20090515.json",
+      "time": "2022-03-10T09:51:38+00:00",
+      "releaseTime": "2009-05-14T22:00:00+00:00",
+      "sha1": "a3165080e2b0bf20519eac5f55ee841f3491e277",
+      "complianceLevel": 0
+    },
+    {
+      "id": "rd-132328",
+      "type": "old_alpha",
+      "url": "https://piston-meta.mojang.com/v1/packages/4ec49ff663f96e78a5cf0d9538adb9d1358fc485/rd-132328.json",
+      "time": "2022-03-10T09:51:38+00:00",
+      "releaseTime": "2009-05-13T21:28:00+00:00",
+      "sha1": "4ec49ff663f96e78a5cf0d9538adb9d1358fc485",
+      "complianceLevel": 0
+    },
+    {
+      "id": "rd-132211",
+      "type": "old_alpha",
+      "url": "https://piston-meta.mojang.com/v1/packages/d090f5d3766a28425316473d9ab6c37234d48b02/rd-132211.json",
+      "time": "2022-03-10T09:51:38+00:00",
+      "releaseTime": "2009-05-13T20:11:00+00:00",
+      "sha1": "d090f5d3766a28425316473d9ab6c37234d48b02",
+      "complianceLevel": 0
+    },
+    {
+      "id": "c0.0.12a_03",
+      "type": "classic",
+      "releaseTime": "2021-04-26T18:26:00Z",
+      "url": "https://ia600603.us.archive.org/23/items/Minecraft-JE-Classic/c0.0.12a_03/c0.0.12a_03.json",
+      "sha1": "24ba8b6b873e19d3da04f584aab3ca38315d06a7"
+    },
+    {
+      "id": "c0.0.13a_03",
+      "type": "classic",
+      "releaseTime": "2018-12-25T03:48:00Z",
+      "url": "https://ia600603.us.archive.org/23/items/Minecraft-JE-Classic/c0.0.13a_03/c0.0.13a_03.json",
+      "sha1": "bd986d7d19115d81f71fbf97e44733973617c9dd"
+    },
+    {
+      "id": "c0.0.14a_08",
+      "type": "classic",
+      "releaseTime": "2019-10-20T20:50:00Z",
+      "url": "https://ia600603.us.archive.org/23/items/Minecraft-JE-Classic/c0.0.14a_08/c0.0.14a_08.json",
+      "sha1": "7525a9de7d34568fc2f6b140f9f628541058a9e7"
+    },
+    {
+      "id": "c0.0.15a-1",
+      "type": "classic",
+      "releaseTime": "2020-04-13T21:22:00Z",
+      "url": "https://ia600603.us.archive.org/23/items/Minecraft-JE-Classic/c0.0.15a-1/c0.0.15a-1.json",
+      "sha1": "51b159eb1ba6d420a64708d116913d51d307f769"
+    },
+    {
+      "id": "c0.0.16a_02",
+      "type": "classic",
+      "releaseTime": "2019-10-20T20:50:00Z",
+      "url": "https://ia600603.us.archive.org/23/items/Minecraft-JE-Classic/c0.0.16a_02/c0.0.16a_02.json",
+      "sha1": "0620d059c63628a0324e6857a5f5bb18a0b7f6fe"
+    },
+    {
+      "id": "c0.0.17a",
+      "type": "classic",
+      "releaseTime": "2021-04-17T21:01:00Z",
+      "url": "https://ia600603.us.archive.org/23/items/Minecraft-JE-Classic/c0.0.17a/c0.0.17a.json",
+      "sha1": "cf70cf38dd17042717ee357dd5c6570e101c6de8"
+    },
+    {
+      "id": "c0.0.18a_02",
+      "type": "classic",
+      "releaseTime": "2020-10-15T17:53:00Z",
+      "url": "https://ia600603.us.archive.org/23/items/Minecraft-JE-Classic/c0.0.18a_02/c0.0.18a_02.json",
+      "sha1": "476379881c36d94d3686600b71c48b21968ee316"
+    },
+    {
+      "id": "c0.0.19a_04",
+      "type": "classic",
+      "releaseTime": "2021-07-22T21:34:00Z",
+      "url": "https://ia600603.us.archive.org/23/items/Minecraft-JE-Classic/c0.0.19a_04/c0.0.19a_04.json",
+      "sha1": "755b0d1342fad7113af015225c3f7708e284041c"
+    },
+    {
+      "id": "c0.0.19a_06-2",
+      "type": "classic",
+      "releaseTime": "2020-10-17T18:56:00Z",
+      "url": "https://ia600603.us.archive.org/23/items/Minecraft-JE-Classic/c0.0.19a_06-2/c0.0.19a_06-2.json",
+      "sha1": "f7fb0e8004fc08acd7ce714d5fe8098c0a42b2bf"
+    },
+    {
+      "id": "c0.0.20a_01",
+      "type": "classic",
+      "releaseTime": "2020-10-14T23:03:00Z",
+      "url": "https://ia600603.us.archive.org/23/items/Minecraft-JE-Classic/c0.0.20a_01/c0.0.20a_01.json",
+      "sha1": "a1808a0ffe95f75a2bf3641dad521fe04ec1a284"
+    },
+    {
+      "id": "c0.0.20a_02",
+      "type": "classic",
+      "releaseTime": "2021-07-22T21:34:00Z",
+      "url": "https://ia600603.us.archive.org/23/items/Minecraft-JE-Classic/c0.0.20a_02/c0.0.20a_02.json",
+      "sha1": "5ac6fe5e1d919d129d0df86dbd57fea6c2729403"
+    },
+    {
+      "id": "c0.30-3",
+      "type": "classic",
+      "releaseTime": "2018-12-25T03:48:00Z",
+      "url": "https://ia600603.us.archive.org/23/items/Minecraft-JE-Classic/c0.30-3/c0.30-3.json",
+      "sha1": "47b9807e3ef887f5611ab0ffe5fe2bdb4a44ae2a"
+    },
+    {
+      "id": "in-20091223-2",
+      "type": "indev",
+      "release_time": "2018-12-25T04:01:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Indev/in-20091223-2/in-20091223-2.json"
+    },
+    {
+      "id": "in-20091231-2",
+      "type": "indev",
+      "release_time": "2021-06-26T22:22:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Indev/in-20091231-2/in-20091231-2.json"
+    },
+    {
+      "id": "in-20100105",
+      "type": "indev",
+      "release_time": "2018-12-25T04:01:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Indev/in-20100105/in-20100105.json"
+    },
+    {
+      "id": "in-20100111-1",
+      "type": "indev",
+      "release_time": "2018-12-25T04:01:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Indev/in-20100111-1/in-20100111-1.json"
+    },
+    {
+      "id": "in-20100125-1",
+      "type": "indev",
+      "release_time": "2018-12-25T04:01:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Indev/in-20100125-1/in-20100125-1.json"
+    },
+    {
+      "id": "in-20100125-2",
+      "type": "indev",
+      "release_time": "2018-12-25T04:01:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Indev/in-20100125-2/in-20100125-2.json"
+    },
+    {
+      "id": "in-20100128-2304",
+      "type": "indev",
+      "release_time": "2020-10-13T21:20:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Indev/in-20100128-2304/in-20100128-2304.json"
+    },
+    {
+      "id": "in-20100129",
+      "type": "indev",
+      "release_time": "2018-12-25T04:01:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Indev/in-20100129/in-20100129.json"
+    },
+    {
+      "id": "in-20100130",
+      "type": "indev",
+      "release_time": "2018-12-25T04:01:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Indev/in-20100130/in-20100130.json"
+    },
+    {
+      "id": "in-20100201-1",
+      "type": "indev",
+      "release_time": "2018-12-25T04:01:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Indev/in-20100201-1/in-20100201-1.json"
+    },
+    {
+      "id": "in-20100201-2",
+      "type": "indev",
+      "release_time": "2018-12-25T04:01:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Indev/in-20100201-2/in-20100201-2.json"
+    },
+    {
+      "id": "in-20100201-3",
+      "type": "indev",
+      "release_time": "2018-12-25T04:01:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Indev/in-20100201-3/in-20100201-3.json"
+    },
+    {
+      "id": "in-20100203",
+      "type": "indev",
+      "release_time": "2018-12-25T04:01:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Indev/in-20100203/in-20100203.json"
+    },
+    {
+      "id": "in-20100206-2103",
+      "type": "indev",
+      "release_time": "2020-10-14T18:03:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Indev/in-20100206-2103/in-20100206-2103.json"
+    },
+    {
+      "id": "in-20100223",
+      "type": "indev",
+      "release_time": "2018-12-25T04:01:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Indev/in-20100223/in-20100223.json"
+    },
+    {
+      "id": "inf-20100227",
+      "type": "infdev",
+      "release_time": "2018-06-27T00:23:00Z",
+      "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100227/inf-20100227.json"
+    },
+    {
+      "id": "inf-20100313",
+      "type": "infdev",
+      "release_time": "2018-06-27T00:23:00Z",
+      "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100313/inf-20100313.json"
+    },
+    {
+      "id": "inf-20100316",
+      "type": "infdev",
+      "release_time": "2018-06-27T00:23:00Z",
+      "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100316/inf-20100316.json"
+    },
+    {
+      "id": "inf-20100320",
+      "type": "infdev",
+      "release_time": "2018-06-27T00:23:00Z",
+      "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100320/inf-20100320.json"
+    },
+    {
+      "id": "inf-20100321",
+      "type": "infdev",
+      "release_time": "2018-06-27T00:23:00Z",
+      "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100321/inf-20100321.json"
+    },
+    {
+      "id": "inf-20100325",
+      "type": "infdev",
+      "release_time": "2018-06-27T00:23:00Z",
+      "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100325/inf-20100325.json"
+    },
+    {
+      "id": "inf-20100327",
+      "type": "infdev",
+      "release_time": "2018-06-27T00:23:00Z",
+      "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100327/inf-20100327.json"
+    },
+    {
+      "id": "inf-20100330",
+      "type": "infdev",
+      "release_time": "2018-06-27T00:23:00Z",
+      "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100330/inf-20100330.json"
+    },
+    {
+      "id": "inf-20100413",
+      "type": "infdev",
+      "release_time": "2018-06-27T00:23:00Z",
+      "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100413/inf-20100413.json"
+    },
+    {
+      "id": "inf-20100414",
+      "type": "infdev",
+      "release_time": "2018-06-27T00:23:00Z",
+      "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100414/inf-20100414.json"
+    },
+    {
+      "id": "inf-20100415",
+      "type": "infdev",
+      "release_time": "2018-06-27T00:23:00Z",
+      "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100415/inf-20100415.json"
+    },
+    {
+      "id": "inf-20100420",
+      "type": "infdev",
+      "release_time": "2018-06-27T00:23:00Z",
+      "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100420/inf-20100420.json"
+    },
+    {
+      "id": "inf-20100607",
+      "type": "infdev",
+      "release_time": "2018-06-27T00:23:00Z",
+      "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100607/inf-20100607.json"
+    },
+    {
+      "id": "inf-20100608",
+      "type": "infdev",
+      "release_time": "2018-06-27T00:23:00Z",
+      "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100608/inf-20100608.json"
+    },
+    {
+      "id": "inf-20100616",
+      "type": "infdev",
+      "release_time": "2021-06-26T22:22:00Z",
+      "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100616/inf-20100616.json"
+    },
+    {
+      "id": "inf-20100630-2",
+      "type": "infdev",
+      "release_time": "2018-06-27T00:23:00Z",
+      "url": "https://ia801609.us.archive.org/32/items/Minecraft-JE-Infdev/inf-20100630-2/inf-20100630-2.json"
+    },
+    {
+      "id": "a1.0.10",
+      "type": "alpha",
+      "release_time": "2018-12-25T02:49:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.0.10/a1.0.10.json"
+    },
+    {
+      "id": "a1.0.11",
+      "type": "alpha",
+      "release_time": "2018-12-25T02:49:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.0.11/a1.0.11.json"
+    },
+    {
+      "id": "a1.0.12",
+      "type": "alpha",
+      "release_time": "2018-12-25T02:49:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.0.12/a1.0.12.json"
+    },
+    {
+      "id": "a1.0.13",
+      "type": "alpha",
+      "release_time": "2018-12-25T02:49:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.0.13/a1.0.13.json"
+    },
+    {
+      "id": "a1.0.13_01-1",
+      "type": "alpha",
+      "release_time": "2018-12-25T02:49:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.0.13_01-1/a1.0.13_01-1.json"
+    },
+    {
+      "id": "a1.0.13_01-2",
+      "type": "alpha",
+      "release_time": "2018-12-25T02:49:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.0.13_01-2/a1.0.13_01-2.json"
+    },
+    {
+      "id": "a1.0.14-1",
+      "type": "alpha",
+      "release_time": "2018-12-25T02:49:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.0.14-1/a1.0.14-1.json"
+    },
+    {
+      "id": "a1.0.14-2",
+      "type": "alpha",
+      "release_time": "2018-12-25T02:49:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.0.14-2/a1.0.14-2.json"
+    },
+    {
+      "id": "a1.0.15",
+      "type": "alpha",
+      "release_time": "2018-12-25T02:49:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.0.15/a1.0.15.json"
+    },
+    {
+      "id": "a1.0.16",
+      "type": "alpha",
+      "release_time": "2018-12-25T02:49:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.0.16/a1.0.16.json"
+    },
+    {
+      "id": "a1.0.16_01",
+      "type": "alpha",
+      "release_time": "2018-12-25T02:49:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.0.16_01/a1.0.16_01.json"
+    },
+    {
+      "id": "a1.0.16_02",
+      "type": "alpha",
+      "release_time": "2018-12-25T02:49:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.0.16_02/a1.0.16_02.json"
+    },
+    {
+      "id": "a1.0.17_02",
+      "type": "alpha",
+      "release_time": "2018-12-25T02:49:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.0.17_02/a1.0.17_02.json"
+    },
+    {
+      "id": "a1.0.17_03",
+      "type": "alpha",
+      "release_time": "2018-12-25T02:49:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.0.17_03/a1.0.17_03.json"
+    },
+    {
+      "id": "a1.0.17_04",
+      "type": "alpha",
+      "release_time": "2018-12-25T02:49:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.0.17_04/a1.0.17_04.json"
+    },
+    {
+      "id": "a1.0.1_01",
+      "type": "alpha",
+      "release_time": "2018-12-25T02:49:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.0.1_01/a1.0.1_01.json"
+    },
+    {
+      "id": "a1.0.2_01",
+      "type": "alpha",
+      "release_time": "2018-12-25T02:49:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.0.2_01/a1.0.2_01.json"
+    },
+    {
+      "id": "a1.0.2_02",
+      "type": "alpha",
+      "release_time": "2018-12-25T02:49:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.0.2_02/a1.0.2_02.json"
+    },
+    {
+      "id": "a1.0.3",
+      "type": "alpha",
+      "release_time": "2018-12-25T02:49:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.0.3/a1.0.3.json"
+    },
+    {
+      "id": "a1.0.4",
+      "type": "alpha",
+      "release_time": "2018-12-25T02:49:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.0.4/a1.0.4.json"
+    },
+    {
+      "id": "a1.0.5",
+      "type": "alpha",
+      "release_time": "2018-12-25T02:49:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.0.5/a1.0.5.json"
+    },
+    {
+      "id": "a1.0.5_01",
+      "type": "alpha",
+      "release_time": "2018-12-25T02:49:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.0.5_01/a1.0.5_01.json"
+    },
+    {
+      "id": "a1.0.6",
+      "type": "alpha",
+      "release_time": "2018-12-25T02:49:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.0.6/a1.0.6.json"
+    },
+    {
+      "id": "a1.0.6_01",
+      "type": "alpha",
+      "release_time": "2018-12-25T02:49:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.0.6_01/a1.0.6_01.json"
+    },
+    {
+      "id": "a1.0.6_03",
+      "type": "alpha",
+      "release_time": "2018-12-25T02:49:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.0.6_03/a1.0.6_03.json"
+    },
+    {
+      "id": "a1.0.7",
+      "type": "alpha",
+      "release_time": "2018-12-25T02:49:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.0.7/a1.0.7.json"
+    },
+    {
+      "id": "a1.0.8_01",
+      "type": "alpha",
+      "release_time": "2018-12-25T02:49:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.0.8_01/a1.0.8_01.json"
+    },
+    {
+      "id": "a1.0.9",
+      "type": "alpha",
+      "release_time": "2018-12-25T02:49:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.0.9/a1.0.9.json"
+    },
+    {
+      "id": "a1.1.0-1",
+      "type": "alpha",
+      "release_time": "2018-12-25T03:27:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.1.0-1/a1.1.0-1.json"
+    },
+    {
+      "id": "a1.1.0-2",
+      "type": "alpha",
+      "release_time": "2018-12-25T03:27:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.1.0-2/a1.1.0-2.json"
+    },
+    {
+      "id": "a1.1.1",
+      "type": "alpha",
+      "release_time": "2018-12-25T03:27:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.1.1/a1.1.1.json"
+    },
+    {
+      "id": "a1.1.2",
+      "type": "alpha",
+      "release_time": "2018-12-25T03:27:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.1.2/a1.1.2.json"
+    },
+    {
+      "id": "a1.1.2_01",
+      "type": "alpha",
+      "release_time": "2018-12-25T03:27:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.1.2_01/a1.1.2_01.json"
+    },
+    {
+      "id": "a1.2.0",
+      "type": "alpha",
+      "release_time": "2018-12-25T03:27:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.2.0/a1.2.0.json"
+    },
+    {
+      "id": "a1.2.0_01",
+      "type": "alpha",
+      "release_time": "2018-12-25T03:27:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.2.0_01/a1.2.0_01.json"
+    },
+    {
+      "id": "a1.2.0_02",
+      "type": "alpha",
+      "release_time": "2018-12-25T03:27:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.2.0_02/a1.2.0_02.json"
+    },
+    {
+      "id": "a1.2.1_01",
+      "type": "alpha",
+      "release_time": "2018-12-25T03:27:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.2.1_01/a1.2.1_01.json"
+    },
+    {
+      "id": "a1.2.2-1",
+      "type": "alpha",
+      "release_time": "2018-12-25T03:27:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.2.2-1/a1.2.2-1.json"
+    },
+    {
+      "id": "a1.2.2-2",
+      "type": "alpha",
+      "release_time": "2018-12-25T03:27:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.2.2-2/a1.2.2-2.json"
+    },
+    {
+      "id": "a1.2.3",
+      "type": "alpha",
+      "release_time": "2018-12-25T03:27:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.2.3/a1.2.3.json"
+    },
+    {
+      "id": "a1.2.3_01",
+      "type": "alpha",
+      "release_time": "2018-12-25T03:27:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.2.3_01/a1.2.3_01.json"
+    },
+    {
+      "id": "a1.2.3_02",
+      "type": "alpha",
+      "release_time": "2018-12-25T03:27:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.2.3_02/a1.2.3_02.json"
+    },
+    {
+      "id": "a1.2.3_04",
+      "type": "alpha",
+      "release_time": "2018-12-25T03:27:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.2.3_04/a1.2.3_04.json"
+    },
+    {
+      "id": "a1.2.3_05",
+      "type": "alpha",
+      "release_time": "2018-12-25T03:27:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.2.3_05/a1.2.3_05.json"
+    },
+    {
+      "id": "a1.2.4_01",
+      "type": "alpha",
+      "release_time": "2018-12-25T03:27:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.2.4_01/a1.2.4_01.json"
+    },
+    {
+      "id": "a1.2.5",
+      "type": "alpha",
+      "release_time": "2018-12-25T03:27:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.2.5/a1.2.5.json"
+    },
+    {
+      "id": "a1.2.6",
+      "type": "alpha",
+      "release_time": "2018-12-25T03:27:00Z",
+      "url": "https://ia903109.us.archive.org/26/items/Minecraft-JE-Alpha/a1.2.6/a1.2.6.json"
+    }
+  ]
+}
